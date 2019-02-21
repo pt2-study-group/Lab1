@@ -3,7 +3,10 @@
 MakeFile
 Debug/
 Release/
+Lab2/
+Lab2_1/
+Lab2_2/
+Lab2_3/
 *.exe
 *.txt
 *.mk
-*.project
